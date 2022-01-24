@@ -9,6 +9,7 @@
 
 
 > Projeto Landing page com foco no usuário, produtos da Playstation  
+> link: https://marcusvinicius0.github.io/playstation-project/
 
 
 
